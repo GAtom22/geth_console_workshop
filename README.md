@@ -8,3 +8,8 @@ Try running some of the following tasks:
 npx hardhat run scripts/deploy.ts
 npx hardhat run scripts/change_greet.ts
 ```
+
+## Dependencies
+
+- `npm`
+- `npx`
